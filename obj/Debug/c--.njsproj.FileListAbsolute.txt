@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\myScript\obj\Debug\c--.njsproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\myScript\bin\Microsoft.NodejsTools.WebRole.dll
